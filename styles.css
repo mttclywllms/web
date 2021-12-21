@@ -1,3 +1,7 @@
+body {
+  font-family: Times New Roman, serif;
+}
+
 /* Create three equal columns that float next to each other */
 .column {
   float: center;
